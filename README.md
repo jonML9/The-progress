@@ -1,1 +1,1 @@
-# The-progress
+I haven't been posting my progress here for a long time. Don't worry. Fortunately, last time I didnt post everything here (I just forgot). In this repository you can see how the foundational blocks of my current knowledge were built (Im not saying that Im smart:)
